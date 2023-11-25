@@ -1,2 +1,12 @@
-# Speaking
-Slide decks presented at different community events and conferences.
+# Slide Decks
+In this repository you can find the slide decks for the sessions I have presented at various events.
+In case you want to know more about the sessions or my speaker profile, please have a loot at my [Sessionize](https://sessionize.com/valerie-junk/) profile.
+
+All material is created by myself, or otherwise refered to original owners of material. 
+
+# Contact Information
+For further inquiries, collaborations, volunteering or speaking invitations, feel free to connect:
+
+- [Personal Website](https://www.porcu.bi)
+- [Linkedin](https://www.linkedin.com/in/valeriejunk/)
+- [Twitter](https://twitter.com/porcubi) 
